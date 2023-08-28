@@ -14,11 +14,12 @@ Neste repositório, você encontrará os códigos das atividades mais básicas e
 
 ## Estrutura do Repositório
 
-- **01-atividade:** Código e detalhes da Atividade 1.
-- **02-atividade:** Código e detalhes da Atividade 2.
-- **03-atividade:** Código e detalhes da Atividade 3.
+- **02-JavaScript:** Contém todos as atividades da seção de JavaScript.
+- **03-Padrões de Desenvolvimento de software:** Contém todos as atividades da seção.
+- **04-Introdução a web services:** Contém todos as atividades da seção.
 - ...
 
+OBS.: Não tem a primeira seção (Lógica de Programação), pois estávamos utilizando o google drive
 
 ## Contato
 
