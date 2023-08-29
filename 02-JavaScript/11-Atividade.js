@@ -1,19 +1,15 @@
 const prompt = require("prompt-sync")();
 let banco = {
+  agencia: 1000,
+  digito: parseInt(Math.random() * 1000000),
+  conta: parseInt(Math.random() * 100),
+  banco: 2260,
   tipo: function (tipo) {
     this.tipo = tipo;
   },
   saldo: function (saldo) {
     this.saldo = saldo;
   },
-  agencia: 1000,
-  digito: function (digito) {
-    this.digito = digito;
-  },
-  conta: function (conta) {
-    this.conta = conta;
-  },
-  banco: 2260,
   numeroConta: function () {
     return `${this.conta}-${this.digito}`;
   },
@@ -88,8 +84,6 @@ function iniciarConta() {
     let saldo = parseInt(prompt("Deseja colocar algum saldo: "));
     if (!isNaN(saldo) && saldo >= 0) {
       banco.saldo(saldo);
-      banco.conta(parseInt(Math.random() * 1000000));
-      banco.digito(parseInt(Math.random() * 100));
     } else {
       throw new Error("Saldo invalido, inicie novamente!");
     }
