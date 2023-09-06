@@ -26,4 +26,3 @@ OBS.: Não tem a primeira seção (Lógica de Programação), pois estávamos ut
 Se você é colega de classe ou deseja discutir as atividades do curso, sinta-se à vontade para entrar em contato comigo via e-mail em vinicius.dsro23@gmail.com.
 
 Estou animado para aprender e consolidar meu conhecimento no desenvolvimento backend durante este curso da Softex Recife!
-
