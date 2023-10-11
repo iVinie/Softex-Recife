@@ -102,7 +102,7 @@ function ContaBancaria(numero, nomeTitular) {
     }
   }
   
-  // Criando um objeto RedeSocial
+  //Criando um objeto RedeSocial
   const minhaRedeSocial = new RedeSocial("Facebook")
   minhaRedeSocial.publicarPostagem("Olá, mundo!")
   minhaRedeSocial.adicionarAmigo("Amigo1")
