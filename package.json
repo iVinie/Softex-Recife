@@ -1,0 +1,11 @@
+{
+  "name": "softex-recife",
+  "version": "1.0.0",
+  "description": "Bem-vindo ao meu repositório de atividades para o Curso de Backend da Formação Acelerada em Programação (FAP) oferecido pela Softex Recife. Aqui, estarei compartilhando os códigos das atividades mais simples que estou realizando ao longo do curso.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
